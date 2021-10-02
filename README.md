@@ -11,3 +11,9 @@ information about a users playlist and store it in a local database. It then dis
 information with a GUI developed using PyQt5. As well, it generates recommended artists for
 the user based on their chosen playlists, and desired popularity for generated artist. Programmed
 in Python and SQL.
+
+ChessAI - An AI developed for a server run chess game. Important to note, not all the code uploaded to
+the ChessAI.zip file is mine, but all of it is required for it to run. Specifially, in Jouer.py\games\chess\ 
+I developed the ai.py and board_state.py files. These files add an AI to the game that utilizes alpha beta 
+pruning, iterative depening, time limitng, and huersitic techinques to evaluate the state of the chess board
+and return the most optimal move every turn. 
