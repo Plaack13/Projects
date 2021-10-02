@@ -2,6 +2,7 @@
 A collection of projects I've completed in the past, including documentation for each
 
 Brief Descriptions:
+
 Knapsack Project - A collection of methods to solve the famous knapsack computing problem, 
 including documentation for the time real and estimated time complexity of each method. Programmed
 in C++.
